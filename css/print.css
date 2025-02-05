@@ -1,0 +1,30 @@
+@media print {
+
+    *{
+        color: black !important;
+    }
+    
+    nav, footer{
+        display: none !important;
+    }
+
+    video{
+       display: none !important; 
+    }
+
+    .parallax{
+        max-height: 100px !important;
+    }
+
+    img{
+        max-width: 25%;
+        filter: grayscale(50%);
+    }
+    .col{
+        margin-bottom: 5% !important;
+    }
+
+    .carousel{
+        display: none !important;
+    }
+}

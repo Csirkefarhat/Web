@@ -1,0 +1,83 @@
+/*=============Parallax scrolling===========*/
+
+.kezdolap{
+	background-color: grey;
+	background-image: url(../Képek/main/kezdolap.jpg);
+}
+
+h1{
+	width: 70%;
+	margin-bottom: 3%;
+	font-size: 1.5rem;
+	text-align: justify;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* ============= video ============= */
+
+.video-container {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 2%;
+	text-align: center;
+	background-color: #768A96;
+	padding: 2%;
+	width: 100%;
+	font-size: 1.5rem;
+}
+
+video {
+	width: 70%;
+	height: auto;
+	object-fit: cover;
+	box-shadow: 0 0 20px black;
+}
+
+table img{
+	width: 80%;
+	height: auto;
+}
+
+/* ============= table ============= */
+td{
+	font-size: 2.5vw;
+	text-align: center;
+	vertical-align: middle;
+}
+
+table{
+	width: 80%;
+	margin: auto;
+}
+
+.custom-table th {
+	background-color: #647990;
+	font-size: 3vw;
+}
+
+
+.table-striped > tbody > tr:nth-child(2n+1) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+	background-color: #768A96;
+ }
+
+ .table-striped > tbody > tr:nth-child(2n) > td, .table-striped > tbody > tr:nth-child(2n+1) > th {
+	background-color: #768A96; 
+ }
+
+ figcaption{
+	font-size: smaller;
+	font-style: italic;
+ }
+
+ caption{
+	text-align: center;
+	margin-bottom: 1%;
+	caption-side: top;
+	color: white;
+	font-size: 1.5em;
+ } 
+
+ details{
+	font-size: 1.8em;
+ }
+

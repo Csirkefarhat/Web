@@ -1,0 +1,70 @@
+.targaryen{
+	background-image: url(../Képek/houses/targ_main.jpg);
+	background-color: #5d6c76;
+	margin-top: 0;
+}
+
+.stark{
+	background-image: url(../Képek/houses/stark_main.jpg);
+	background-color: #7891a2;
+}
+
+.lannister{
+	background-image: url(../Képek/houses/lan_main2.jpg);
+	background-color: #5d6c76;
+}
+
+.arryn{
+	background-image: url(../Képek/houses/arryn_main.jpg);
+	background-color: #5d6c76;
+}
+
+.tully{
+	background-image: url(../Képek/houses/tully_main.jpg);
+	background-color: #5d6c76;
+}
+
+.greyjoy{
+	background-image: url(../Képek/houses/grey_main.jpg);
+	background-color: #5d6c76;
+}
+
+.baratheon{
+	background-image: url(../Képek/houses/bar_main.jpg);
+	background-color: #5d6c76;
+}
+
+.tyrell{
+	background-image: url(../Képek/houses/tyrell_main.jpg);
+	background-color: #5d6c76;
+}
+
+.martell{
+	background-image: url(../Képek/houses/mar_main.jpg);
+	background-color: #5d6c76;
+}
+
+/*========cards========*/
+
+.card-img-top{
+	padding: 4%;
+}
+
+.card{
+	background-color: #212529;
+	color: #e6e6e6;
+}
+
+.card-title{
+	font-size: 1.3rem;
+}
+.card-text{
+	font-size: 1rem;
+}
+
+.cardcontainer{
+	width: 80%;
+	margin: auto;
+	margin-top: 2%;
+	text-align: center;
+}

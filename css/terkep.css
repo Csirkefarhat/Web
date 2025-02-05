@@ -1,0 +1,61 @@
+/*=============Parallax scrolling===========*/
+.terkep{
+	background-image: url("../Képek/map/asd.jpg");
+    margin-top: 0;
+}
+
+
+.section-header{
+    font-size: 1.5rem;
+    margin-bottom: 0.5%;
+    margin-top: 2.5%;
+}
+h1{
+    padding-top: 2%;
+    font-size: 2rem;
+}
+
+
+article{
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 5px 15px 0px;
+    background-color: #DBE1E1;
+    color: rgb(54, 54, 54);
+}
+
+aside{
+    font-style: italic;
+    font-size: 1.2rem;
+    margin-top: 2%;
+}
+
+body{
+    background-color: #BDD4DA;
+}
+
+p{
+    font-size: 1.2rem;
+}
+
+.parallax-content{
+    color :rgb(56, 166, 225)
+}
+
+img{
+    width: 50%;
+    margin: auto;
+}
+
+.terkep {
+    background-image: url("../Képek/map/asd.jpg");
+    margin-top: 0;
+}
+
+.carousel{
+    margin: auto;
+    padding: 3%;
+    width: 80%;
+}
+
+ul{
+    font-size: 1.2rem;
+}
